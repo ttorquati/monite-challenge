@@ -25,6 +25,7 @@ Project created using [Material UI Components](https://mui.com/material-ui/), [R
 
 #### Dialog Component
   - Dialog, Inputs, Buttons MUI Components
+  - Form Data being registered and controlled by React Hook Form
   - Units Input Component is an AutoComplete Free Solo MUI Component
     - Units List fetching Units data using useQuery
     - Add New Unit POST data using Mutations 
@@ -32,4 +33,13 @@ Project created using [Material UI Components](https://mui.com/material-ui/), [R
       - SnackBar appears to notify the user
   - Add Prodcut POST data using Mutations
     - Post Mutation invalidates query to update Products Table with new record
-    - SnackBar appears to notify the user
+    - SnackBar appears to notify the user 
+
+![Dialog Component](https://github.com/ttorquati/monite-challenge/blob/master/public/Screenshot_2.png?raw=true)
+
+### Improvements
+  - Design is not responsive for this showcase
+    - Add mobile support
+  - Form does not have any kind of validation for this showcase
+    - We can achieve it using React Hook Form and adding masks as well
+    
