@@ -21,6 +21,8 @@ Project created using [Material UI Components](https://mui.com/material-ui/), [R
   - DataTable Mui Component
     - Fetching Products data using useQuery
 
+![Home Component](https://github.com/ttorquati/monite-challenge/blob/master/public/Screenshot_1.png?raw=true)
+
 #### Dialog Component
   - Dialog, Inputs, Buttons MUI Components
   - Units Input Component is an AutoComplete Free Solo MUI Component
