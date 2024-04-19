@@ -31,7 +31,7 @@ Project created using [Material UI Components](https://mui.com/material-ui/), [R
     - Add New Unit POST data using Mutations 
       - Post Mutation invalidates query to update Unit List with new record
       - SnackBar appears to notify the user
-  - Add Prodcut POST data using Mutations
+  - Add Product POST data using Mutations
     - Post Mutation invalidates query to update Products Table with new record
     - SnackBar appears to notify the user 
 
