@@ -1,0 +1,42 @@
+{
+  "units": [
+    {
+      "title": "Minutes",
+      "id": "4b32"
+    },
+    {
+      "title": "Hours",
+      "id": "33e5"
+    },
+    {
+      "title": "Days",
+      "id": "33e6"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "Design Services",
+      "type": "Product",
+      "unit": "Days",
+      "price": "100",
+      "vat": "16%"
+    },
+    {
+      "id": "2",
+      "name": "QA Services",
+      "type": "Product",
+      "unit": "Days",
+      "price": "100",
+      "vat": "16%"
+    },
+    {
+      "id": "3",
+      "name": "Backend Development",
+      "type": "Product",
+      "unit": "Days",
+      "price": "100",
+      "vat": "16%"
+    }
+  ]
+}
